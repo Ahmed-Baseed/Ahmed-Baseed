@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Baseed</h1>
+<h1 align="center">Hi there 👋, I'm Ahmed Basaid</h1>
 
 <p align="center">
   A passionate software developer specializing in mobile and web technologies, always excited to learn, collaborate, and create awesome experiences! 🚀
